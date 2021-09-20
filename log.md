@@ -15,11 +15,10 @@
 **Today's Progress**
 * Forked the 100 Days of Code repo, and edited it according to what I can understand and have knowledge of.
 * Created a new repo and merged it with the 100 days of code challenge repo
-* Learned how to format Markdown using git and github tutorial via YT and Mrdium article, and created a proper README.md for the repo.
-* Registered with Python for Everybody course from FreeCodeCamp
+* Completed Day 1, 2 and 3 exercises from python #100 days bootcamp
 
 **Thoughts**
-* To be honest, I have no idea how logs, resource and other .md are created in github so I am doing it my way with tria and error
+* I wanted to continue furthr but its 2.36am right now and my body is feeling super sleepy so will continue the journey again tomorrow
 
 **Links to exercise or portfolio**
 *  
