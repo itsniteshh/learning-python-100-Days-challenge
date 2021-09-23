@@ -5,8 +5,34 @@
 
 
 
+### Day 3: Sept 23, 2021
+
+**Today's Progress**
+* Completed Day 5 exercises from python #100 days bootcamp
+* Learnt more about for loops and using condiitonals
+* Built password generator which generates password randomly from different lists and shuffles them later
+
+**Thoughts**
+* It was fun although I wanted to do more but this laziness
+
+**Links to exercise or portfolio**
+*  
 
 
+
+
+### Day 2: Sept 22, 2021
+
+**Today's Progress**
+* Completed Day 4 exercises from python #100 days bootcamp
+* Learnt more about lists and conditionals
+* Built rock, paper and scissors game 
+
+**Thoughts**
+* I wasn't able to update today's progress on git
+
+**Links to exercise or portfolio**
+*  
 
 
 
