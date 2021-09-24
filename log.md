@@ -5,6 +5,21 @@
 
 
 
+### Day 4: Sept 24, 2021
+
+**Today's Progress**
+* Completed Day 6 exercises from python #100 days bootcamp
+* Learnt more about while loops and using condiitonals
+* passed 5 hurdle loop challenges using for and while loop conditionals based of different levels
+
+**Thoughts**
+* I had funn working with these exercises, earlier it was tough to solve them but not anymore
+
+**Links to exercise or portfolio**
+*  
+
+
+
 ### Day 3: Sept 23, 2021
 
 **Today's Progress**
