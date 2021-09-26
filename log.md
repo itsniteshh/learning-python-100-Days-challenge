@@ -5,6 +5,23 @@
 
 
 
+
+
+### Day 5: Sept 25, 2021
+
+**Today's Progress**
+* Completed Day 7 exercises from python #100 days bootcamp
+* Practised all I had learnt during these 6 days and built a hangman game
+
+
+**Thoughts**
+* Later, I will try to build this game without using hints
+
+**Links to exercise or portfolio**
+*  https://replit.com/@itsniteshh/Day-7-Hangman-5-Start-1#main.py
+
+
+
 ### Day 4: Sept 24, 2021
 
 **Today's Progress**
