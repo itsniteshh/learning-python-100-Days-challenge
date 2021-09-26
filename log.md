@@ -3,7 +3,17 @@
 
 
 
+### Day 6: Sept 26, 2021
 
+**Today's Progress**
+* Learnt about functions and arguments
+* Created ceasor cypher game 
+
+**Thoughts**
+* It was a good dam but I need to do more and learn more
+
+**Links to exercise or portfolio**
+*  https://replit.com/@itsniteshh/caesar-cipher-4-start-1#main.py
 
 
 
@@ -16,6 +26,7 @@
 
 **Thoughts**
 * Later, I will try to build this game without using hints
+* PS: I forgot to push my code to github
 
 **Links to exercise or portfolio**
 *  https://replit.com/@itsniteshh/Day-7-Hangman-5-Start-1#main.py
