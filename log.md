@@ -3,6 +3,20 @@
 
 
 
+### Day 7: Sept 27, 2021
+
+**Today's Progress**
+* Learnt about dictionary and nested dicts
+* Created bidding auction game
+
+**Thoughts**
+* truth be told, I was having difficulty especially storing all the key, values in the dict but it was resolved once I watched tutorial
+
+**Links to exercise or portfolio**
+*  https://replit.com/@itsniteshh/blind-auction-start#main.py
+
+
+
 ### Day 6: Sept 26, 2021
 
 **Today's Progress**
