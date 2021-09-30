@@ -2,6 +2,19 @@
 **** Note: Any day that specifies "Day NJ5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
 
+### Day 9: Sept 29, 2021
+
+**Today's Progress**
+* Learnt about scopes and blocks
+* Completed number guess game
+
+**Thoughts**
+* This one is the basics program without the use of functions or recursion
+
+**Links to exercise or portfolio**
+*  https://replit.com/@itsniteshh/guess-the-number-start#main.py
+
+
 
 ### Day 9: Sept 29, 2021
 
