@@ -4,6 +4,19 @@
 
 
 
+### Day 12: Oct 2, 2021
+
+**Today's Progress**
+* Built higher lower game program for checking the person with highest insta followers
+
+**Thoughts**
+* TI wasn't able to code this by myself... took help from solution video. Will try to code this once more after few days to see if i've learnt or not
+
+**Links to exercise or portfolio**
+*  
+
+
+
 ### Day 11: Oct 1, 2021
 
 **Today's Progress**
